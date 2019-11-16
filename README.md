@@ -134,3 +134,12 @@ Es necesario crear un Inbound Port Rule para permitir el acceso a esta aplicacio
 
 `Si, ya que al mejorar el rendimiento de la CPU se mejoran los tiempos de respuesta, esto debido al nuevo almacenamiento `
 
+### Parte 2 - Escalabilidad horizontal
+
+![Imagenes](https://github.com/danielrodriguezvillalba/ARSW-Laboratorio8/blob/master/images/19.PNG)
+
+![Imagenes](https://github.com/danielrodriguezvillalba/ARSW-Laboratorio8/blob/master/images/20.PNG)
+
+![Imagenes](https://github.com/danielrodriguezvillalba/ARSW-Laboratorio8/blob/master/images/21.PNG)
+
+![Imagenes](https://github.com/danielrodriguezvillalba/ARSW-Laboratorio8/blob/master/images/22.PNG)
